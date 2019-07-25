@@ -1,5 +1,7 @@
 # 100 Days of Coding - Log
+
 ## Start of Log
+
 ### Day 1 - July 24, 2019
 **Subject:** Cross-Site Scripting
 **Today's Progress:** I was able to understand the concept of Cross-Site Scripting (XSS), it's use and prevention.
