@@ -65,5 +65,6 @@ document.querySelector('#root')
 |---------|-------|------|---------|
 |gives me access to<br>codes from other files<br>or dependencies <br> that I will import.|The variable I want <br> to assign this import<br> to.| I'm about to specify<br>the name of the<br>library or file that I'm<br>importing from.|The name of the<br>dependency or <br> path to the file I<br>am importing.
 
-<br>
+###
+
 `ReactDOM.render` takes the component and shows it on the screen.
