@@ -74,8 +74,26 @@ document.querySelector('#root')
 
 ## Day 3 - July 26, 2019
 
-**Subject:** Javascript (ReactJS)
+**Subject:** Basic HTML and HTML5
 
 **Today's Progess:** I finished the first part of the Responsive Web Design Certification in [https://learn.freecodecamp.org/](https://learn.freecodecamp.org/) which is Basic HTML and HTML5.
 
 ![enter image description here](https://i.imgur.com/M3IzbHz.png)
+
+##
+
+## Day 4 - July 29, 2019
+
+**Subject:** Basic CSS
+
+**Today's Progess:** I continued working with the course on freecodecamp site and done with changing color text up to sizing images.
+![enter image description here](https://i.imgur.com/62Mubc2.png)
+
+##
+
+## Day 5 - July 30, 2019
+**Subject:** Basic CSS
+
+**Today's Progess:** I continued working with the course on freecodecamp site and done with more than half of the topic. I've finished starting from Adding Borders around the Element up to Override styles in Subsequent CSS.
+
+![enter image description here](https://i.imgur.com/s1dpdHM.png)
