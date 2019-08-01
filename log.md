@@ -105,3 +105,11 @@ document.querySelector('#root')
 **Today's Progress:** I finished the course for the `Basic CSS` and tried to create variables that can be use all through the CSS file.
 
 ![enter image description here](https://i.imgur.com/eWT2INn.png)
+
+## Day 7 - August 1, 2019
+**Subject:** Applied Visual Design
+
+**Today's Progress:** I started working with the `Applied Visual Design` Course in the freecodecamp site and had reviewed about some of the techniques in HTML and CSS.
+
+![enter image description here](https://i.imgur.com/GtaJ0kV.png)
+![enter image description here](https://i.imgur.com/GH339YD.png)
