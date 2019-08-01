@@ -31,7 +31,7 @@ or other HTML Tags like what i've tested `<i>` which transformed the remainder o
 
 **Subject:** Javascript (ReactJS)
 
-**Today's Progess:** I started creating my first react app with `npx create-react-app react-app` and created my own _index.js_ file.
+**Today's Progress:** I started creating my first react app with `npx create-react-app react-app` and created my own _index.js_ file.
 
 **Thoughts:**
 
@@ -76,7 +76,7 @@ document.querySelector('#root')
 
 **Subject:** Basic HTML and HTML5
 
-**Today's Progess:** I finished the first part of the Responsive Web Design Certification in [https://learn.freecodecamp.org/](https://learn.freecodecamp.org/) which is Basic HTML and HTML5.
+**Today's Progress:** I finished the first part of the Responsive Web Design Certification in [https://learn.freecodecamp.org/](https://learn.freecodecamp.org/) which is Basic HTML and HTML5.
 
 ![enter image description here](https://i.imgur.com/M3IzbHz.png)
 
@@ -86,7 +86,7 @@ document.querySelector('#root')
 
 **Subject:** Basic CSS
 
-**Today's Progess:** I continued working with the course on freecodecamp site and done with changing color text up to sizing images.
+**Today's Progress:** I continued working with the course on freecodecamp site and done with changing color text up to sizing images.
 ![enter image description here](https://i.imgur.com/62Mubc2.png)
 
 ##
@@ -94,6 +94,14 @@ document.querySelector('#root')
 ## Day 5 - July 30, 2019
 **Subject:** Basic CSS
 
-**Today's Progess:** I continued working with the course on freecodecamp site and done with more than half of the topic. I've finished starting from Adding Borders around the Element up to Override styles in Subsequent CSS.
+**Today's Progress:** I continued working with the course on freecodecamp site and done with more than half of the topic. I've finished starting from Adding Borders around the Element up to Override styles in Subsequent CSS.
 
 ![enter image description here](https://i.imgur.com/s1dpdHM.png)
+
+
+## Day 6 - July 31, 2019
+**Subject:** Basic CSS
+
+**Today's Progress:** I finished the course for the `Basic CSS` and tried to create variables that can be use all through the CSS file.
+
+![enter image description here](https://i.imgur.com/eWT2INn.png)
