@@ -107,9 +107,16 @@ document.querySelector('#root')
 ![enter image description here](https://i.imgur.com/eWT2INn.png)
 
 ## Day 7 - August 1, 2019
-**Subject:** Applied Visual Design
+**Subject:** Applied Visual Design / CSS
 
 **Today's Progress:** I started working with the `Applied Visual Design` Course in the freecodecamp site and had reviewed about some of the techniques in HTML and CSS.
 
 ![enter image description here](https://i.imgur.com/GtaJ0kV.png)
 ![enter image description here](https://i.imgur.com/GH339YD.png)
+
+## Day 8 - August 2, 2019
+**Subject:** Applied Visual Design / CSS
+
+**Today's Progress:** I continued working with the `Apploed Visual Design` Course and learned new things that I haven't use in my coding career. I mostly use the hex code `#` or the `rgba()` for color specifications but recently here in the codecamp, I learned about the `hsl()` for _Hue, Saturation and Lightness_ which will be a good help when I proceed with the designing for future projects. I also tried to create a graphic object by using css codes. I managed to had a _Moon_ output as a graphic object and tried to manipulate other `HTML ELEMENTS`.
+
+![enter image description here](https://i.imgur.com/PeZMwuK.png)
