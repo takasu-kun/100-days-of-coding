@@ -123,6 +123,7 @@ document.querySelector('#root')
 
 ## Day 9 - August 5, 2019
 **Subject:** Applied Visual Design / CSS
+
 **Today's Progress:** I continued working with the `Applied Visual Design` and finished the whole course. I tried to create complex shape and animation by keyframes using CSS.
 
 ![Here are the remaining exercises on the course](https://i.imgur.com/avT7H53.png)
