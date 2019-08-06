@@ -127,3 +127,10 @@ document.querySelector('#root')
 **Today's Progress:** I continued working with the `Applied Visual Design` and finished the whole course. I tried to create complex shape and animation by keyframes using CSS.
 
 ![Here are the remaining exercises on the course](https://i.imgur.com/avT7H53.png)
+
+## Day 10 - August 6, 2019
+**Subject:** Applied Accessibility / CSS
+
+**Today's Progress:** I finished one module today which is `Applied Accessibility` in the freecodecamp and tried to put `<audio>` `<figure>` and other new tags.
+
+![Full course of Applied Accessibility](https://i.imgur.com/uz1KhC0.png)
