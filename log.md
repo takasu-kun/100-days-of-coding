@@ -134,3 +134,12 @@ document.querySelector('#root')
 **Today's Progress:** I finished one module today which is `Applied Accessibility` in the freecodecamp and tried to put `<audio>` `<figure>` and other new tags.
 
 ![Full course of Applied Accessibility](https://i.imgur.com/uz1KhC0.png)
+
+## Day 11 - August 7, 2019
+**Subject:** 
+	1. Responsive Web Design Principles
+	2. CSS Flexbox
+
+**Today's Progress:** I finished 2 modules in the Responsive Web Design Certification Course which is the 2 given subjects. I tried to use media queries to have a responsive page on any device size and also used flex grid to have proper responsive grid for html elements.
+
+![Responsive Web Design Principles and CSS Flexbox](https://i.imgur.com/r9JzGhj.png)
