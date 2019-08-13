@@ -309,3 +309,12 @@ document.querySelector('#root')
 **Subject:** Responsive Web Design Projects (Product Landing Page)
 
 **Today's Progress:** I finished the project by creating a basic landing page and I used different html tags and css. I tried to make the nav bar fixed on top and also I practiced flexbox for a responsive webpage. On top of that, I also used media query to make it more responsive to the device width. As for today, I'm 2 projects away from the Responsive Web Design Certification.
+
+## Day 15 - August 13, 2019
+
+**Subject:** Responsive Web Design Projects
+
+**Today's Progress:** I finished the last 2 projects of the _Responsive Web Design Projects_
+ and finally done with the _Responsive Web Design Course_ and got my Certification for the camp. The last two projects were about a Documentation and a Portfolio which I used commonly `<section>` and `<nav>` most especially side navs.
+ 
+ ![My Certificate for the code camp](https://i.imgur.com/jdyKoze.png)
