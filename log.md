@@ -283,6 +283,7 @@ document.querySelector('#root')
 ## Day 12 - August 8, 2019
 
 **Subject:** CSS GRID & Responsive Web Design Projects
+
 **Today's Progress:** I finished the module for the CSS Grid and tried to maker responsive elements using the grid attributes in CSS. I also started with the Responsive Web Design Projects and finished creating a _Tribute Page_ which passed the user criteria in the module. I used the new HTML Elements
 
 ```
@@ -298,6 +299,13 @@ document.querySelector('#root')
 ## Day 13 - August 11, 2019
 
 **Subject:** Responsive Web Design Projects (Survey Form)
+
 **Today's Progress:** For today, I finished again 1 project that is required for the Responsive Web Design Certification at learn.freecodecamp.org. The project consists of practice for different HTML tags. It focuses on the common things that is needed on a survey form. In this project, I created first a title by using the `<h1>` tag and then the `<form>` followed by creating `<input>` tags for the textboxes for the name, email and age. After making sure its types, I tried to add placeholders on the tags so that it has guide or instruction for the user. After that, I use the `<select>` and `<option>` for having a dropdown selection. Also, I put radio button and checkboxes as it was stated on the criteria that it is needed on the survey form. After that, I put a `<textarea>` tag for the comments or suggestions for the survey forms and then lastly, I put a submit `<button>` to pass the inputs on the form. I finished all the user criteria and passed the project.
 
 ![My Survey Form Project](https://i.imgur.com/0jHQhWB.png)
+
+## Day 14 - August 12, 2019
+
+**Subject:** Responsive Web Design Projects (Product Landing Page)
+
+**Today's Progress:** I finished the project by creating a basic landing page and I used different html tags and css. I tried to make the nav bar fixed on top and also I practiced flexbox for a responsive webpage. On top of that, I also used media query to make it more responsive to the device width. As for today, I'm 2 projects away from the Responsive Web Design Certification.
