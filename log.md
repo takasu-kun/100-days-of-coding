@@ -318,3 +318,33 @@ document.querySelector('#root')
  and finally done with the _Responsive Web Design Course_ and got my Certification for the camp. The last two projects were about a Documentation and a Portfolio which I used commonly `<section>` and `<nav>` most especially side navs.
  
  ![My Certificate for the code camp](https://i.imgur.com/jdyKoze.png)
+
+## Day 16 - August 14, 2019
+
+**Subject:** Javascript
+
+**Today's Progress:** I started with the _Javascript Algorithms And Data Structures Certification_ Curriculum and finished some of the task in _Basic Javascript_ course. But I've noted more about the _Compound Assignment w/ Augmented Operations_ and _Escaping Literal Quotes in Strings_.
+
+in _Compound Assignment w/ Augmented Operations_,
+
+instead of using this:
+  `var myVar = myVar + 5;`
+  
+ we could actually use this augmented operation:
+  `var myVar = 1;
+  myVar += 5;`
+  
+  and also in Escaping Sequence in Strings, we could use these codes:
+  
+  | Code | Output |
+  |------|--------|
+  |\'|single quote|
+  |\"|double quote|
+  |\\|backslash|
+  |\n|newline|
+  |\r|carriage return|
+  |\t|tab|
+  |\b|backspace|
+  |\n|form feed|
+  
+   ![Finished tasks](https://i.imgur.com/utDajyV.png)
