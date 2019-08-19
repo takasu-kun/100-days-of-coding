@@ -348,3 +348,40 @@ instead of using this:
   |\n|form feed|
   
    ![Finished tasks](https://i.imgur.com/utDajyV.png)
+
+
+## Day 17 - August 19, 2019
+
+**Subject:** Javascript
+
+**Today's Progress:**
+
+I finished the tasks:
+   ![Finished tasks](https://i.imgur.com/YZCfUaN.png)
+   
+   I tried to concatenate strings using the plus operator like this example
+   ``
+   var name = "Dan";
+   name += " Handsome";
+   ``
+   
+   I also constructed strings with addition of variables
+   ``
+   var name = "Dan";
+   var myName = "My name is " + name + " and I am well!";
+   ``
+   
+   In finding the length of a String, I did it by putting `.length` code after the variable.
+   ``
+   var lastName = "lovelace";
+   lastNameLength = lastName.length;
+   ``
+   
+   also,
+   
+   in  Bracket notations, where most of the activity was focused there, I tried it by adding brackets and the index of the character.
+   
+   ``
+   var lastName = "lovelace";
+   lastNameFirstCharacter = lastName[0];
+   ``
