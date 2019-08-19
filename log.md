@@ -362,34 +362,34 @@ I finished the tasks:
    
    I tried to concatenate strings using the plus operator like this example
    
-   ``
+   ```
    var name = "Dan";
    
    name += " Handsome";
-   ``
+   ```
    
    I also constructed strings with addition of variables
    
-   ``
+   ```
    var name = "Dan";
    
    var myName = "My name is " + name + " and I am well!";
-   ``
+   ```
    
    In finding the length of a String, I did it by putting `.length` code after the variable.
    
-   ``
+   ```
    var lastName = "lovelace";
    
    lastNameLength = lastName.length;
-   ``
+   ```
    
    also,
    
    in  Bracket notations, where most of the activity was focused there, I tried it by adding brackets and the index of the character.
    
-   ``
+   ```
    var lastName = "lovelace";
    
    lastNameFirstCharacter = lastName[0];
-   ``
+   ```
