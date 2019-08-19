@@ -357,23 +357,30 @@ instead of using this:
 **Today's Progress:**
 
 I finished the tasks:
+
    ![Finished tasks](https://i.imgur.com/YZCfUaN.png)
    
    I tried to concatenate strings using the plus operator like this example
+   
    ``
    var name = "Dan";
+   
    name += " Handsome";
    ``
    
    I also constructed strings with addition of variables
+   
    ``
    var name = "Dan";
+   
    var myName = "My name is " + name + " and I am well!";
    ``
    
    In finding the length of a String, I did it by putting `.length` code after the variable.
+   
    ``
    var lastName = "lovelace";
+   
    lastNameLength = lastName.length;
    ``
    
@@ -383,5 +390,6 @@ I finished the tasks:
    
    ``
    var lastName = "lovelace";
+   
    lastNameFirstCharacter = lastName[0];
    ``
