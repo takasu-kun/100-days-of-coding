@@ -419,3 +419,12 @@ firstName = VALUES (firtName),
 lastName = VALUES (lastName);
 
 ```
+
+## Day 19 - August 21, 2019
+
+**Subect:** Basic Javascript
+
+**Today's Progress:**
+
+I tried to continue the _Basic Javascript_ Course of freecodecamp and finish some of the task regarding arrays. I tried to access and modify a certain index in array and also call indexes of it. I also took time on practicing the `.push` for the array. Also, I tried
+to use nested arrays and access nested arrays.
