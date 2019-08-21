@@ -393,3 +393,29 @@ I finished the tasks:
    
    lastNameFirstCharacter = lastName[0];
    ```
+
+
+## Day 18 - August 20, 2019
+
+**Subject:** MySQL
+
+**Today's Progress:**
+
+I tried to study about the `INSERT INTO ON DUPLICATE KEY UPDATE` since I haven't used that on any of my projects in the past. I learned how to use it in mysql to insert data if the unique key is not existing or if it has no duplicate on the existing data and it updates the row if the data has a duplicate.
+
+```
+INSERT INTO user (employeeId, firstName, lastName)
+
+VALUES
+
+(1, Danny, Guerzon)
+
+ON DUPLICATE KEY UPDATE
+
+employeeId = VALUES(employeeId),
+
+firstName = VALUES (firtName),
+
+lastName = VALUES (lastName);
+
+```
