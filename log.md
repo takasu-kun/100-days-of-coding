@@ -428,3 +428,57 @@ lastName = VALUES (lastName);
 
 I tried to continue the _Basic Javascript_ Course of freecodecamp and finish some of the task regarding arrays. I tried to access and modify a certain index in array and also call indexes of it. I also took time on practicing the `.push` for the array. Also, I tried
 to use nested arrays and access nested arrays.
+
+## Day 20 - August 25, 2019
+
+**Subject:** Node Express JS
+
+**Today's Progress:**
+
+So for this day, I didn't continue my _Javascript Course_ on `freecodecamp` to focus on practicing the node express. Here I watch videos on youtube and also research about it. There I see that **Routing** refers to determining how an application responds to a client request to a particular endpoint, which is a URI (or path) and a specific HTTP request method like `GET`, `POST`, `PUT`, and `DELETE`.
+
+A Route definition takes the following structure:
+
+```
+app.METHOD(PATH, HANDLER)
+```
+
+## Day 21 - August 26, 2019
+
+**Subject:** Node Express JS
+
+**Today's Progress:**
+
+I tried to apply the basic routing on a sample api. And followed the structure given on expressjs site.
+
+Respond with Hello World! on the homepage:
+
+```
+app.get('/', function (req, res) {
+  res.send('Hello World!')
+})
+```
+
+Respond to POST request on the root route (/), the application’s home page:
+
+```
+app.post('/', function (req, res) {
+  res.send('Got a POST request')
+})
+```
+
+Respond to a PUT request to the /user route:
+
+```
+app.put('/user', function (req, res) {
+  res.send('Got a PUT request at /user')
+})
+```
+
+Respond to a DELETE request to the /user route:
+
+```
+app.delete('/user', function (req, res) {
+  res.send('Got a DELETE request at /user')
+})
+```
