@@ -482,3 +482,31 @@ app.delete('/user', function (req, res) {
   res.send('Got a DELETE request at /user')
 })
 ```
+
+## Day 22 - August 28, 2019
+
+**Subject:** Basic Javascript
+
+**Today's Progress:** 
+
+I continued with the Basic Javascript Course for the Javascript Curriculum and finished the parts on manipulating arrays and using Global and Local Variables.
+
+![Basic Javascript Course](https://i.imgur.com/jWigQEY.png)
+
+## Day 23 - September 1, 2019
+
+**Subject:** HTML/CSS
+
+**Today's Progress:** 
+
+I tried to make a trapezoid made from border but I realize It will not be used for image sliders. So I tried to research in making image sliders and also review he skew and transforms.
+
+## Day 24 - September 2, 2019
+
+**Subject:** HTML/CSS
+
+**Today's Progress:**
+
+I made an object for image slider made from `clip-path` and as may container for the images. I tried to used what I've researched and replaced the container that I made yesterday.
+
+![image-slider](https://i.imgur.com/SFHDMBu.png)
